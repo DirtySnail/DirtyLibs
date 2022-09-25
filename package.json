@@ -1,0 +1,18 @@
+{
+  "name": "com.dirtysnail.dirtylibs",
+  "version": "1.2.3",
+  "displayName": "Dirty Libs",
+  "description": "This is a dirty library",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "author": {
+    "name": "Dirty Snail",
+    "email": "dirtysnailgames@gmail.com",
+    "url": ""
+  },
+  "type": "library",
+  "hideInEditor": false
+}
